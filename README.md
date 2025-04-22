@@ -1,6 +1,10 @@
 # Sales and Customer Analytics SQL Project
 
+Welcome!
+
 This project consists of a comprehensive set of SQL queries aimed at analyzing sales performance, customer behavior, and product performance using data from a hypothetical retail company. The dataset includes information about customers, products, and sales transactions.
+
+**You can find all the queries in "warehouse_sales_queries.sql" file.**
 
 ## Tables
 
