@@ -1,6 +1,6 @@
 # Sales and Customer Analytics SQL Project
 
-Welcome!
+Welcome to my 3d SQL project!
 
 This project consists of a comprehensive set of SQL queries aimed at analyzing sales performance, customer behavior, and product performance using data from a hypothetical retail company. The dataset includes information about customers, products, and sales transactions.
 
@@ -54,3 +54,5 @@ Creates a view `report_products` summarizing product performance: total orders, 
 ## Conclusion
 
 This SQL project provides a full analysis pipeline for retail data. It includes trend tracking, segmentation, product performance, and customer behavior insights — a solid foundation for decision-making in sales, marketing, and product development.
+
+Thank you for your attention, please feel free to download this project!
